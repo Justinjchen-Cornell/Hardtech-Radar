@@ -117,7 +117,9 @@ def write_feed(generated, title, markdown):
             history = json.load(open(DIGEST_HISTORY_PATH, encoding="utf-8"))
         except Exception:
             history = []
-    if not history or history[0].get("date") != generated:
+    if history and history[0].get("date") == generated:
+        history[0] = {"date": generated, "title": title, "markdown": markdown}
+    else:
         history.insert(0, {"date": generated, "title": title, "markdown": markdown})
     history = history[:FEED_MAX_ENTRIES]
     json.dump(history, open(DIGEST_HISTORY_PATH, "w", encoding="utf-8"), ensure_ascii=False, indent=1)

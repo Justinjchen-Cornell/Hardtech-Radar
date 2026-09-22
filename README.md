@@ -104,7 +104,7 @@ hardtech-radar/
 │   ├── fetch_news.py          # RSS 事件抓取（Bing→Google，优雅降级）
 │   ├── scoring.py             # 六维评分 + 里程碑联动 + 精选匹配 + diff
 │   └── build_report.py        # 生成 data.js / REPORT.md / 快照
-├── tests/test_scoring.py      # 21 个单元测试
+├── tests/test_scoring.py      # 27 个单元测试
 ├── site/                      # 零依赖静态 Dashboard
 └── .github/workflows/update.yml  # 每周：抓取→评分→diff→提交→部署 Pages
 ```

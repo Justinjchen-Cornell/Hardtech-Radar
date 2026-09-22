@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """评分引擎单元测试 v0.2。运行：python -m unittest discover -s tests -v"""
+import json
 import os
 import sys
 import unittest
@@ -221,6 +222,51 @@ class ScoringTest(unittest.TestCase):
         text = weekly_digest.render_markdown(items, [], [], "2026-09-22", True)
         self.assertIn("甲", text)
         self.assertIn("2026-09-22", text)
+
+
+class FeedTest(unittest.TestCase):
+    """Atom 订阅源：同日重复构建必须更新而非跳过（v0.2.1 修复回归）。"""
+
+    def setUp(self):
+        import tempfile
+        from engine import build_report
+        self.build_report = build_report
+        self.tmp = tempfile.TemporaryDirectory()
+        self._old_feed = build_report.FEED_PATH
+        self._old_hist = build_report.DIGEST_HISTORY_PATH
+        build_report.FEED_PATH = os.path.join(self.tmp.name, "feed.xml")
+        build_report.DIGEST_HISTORY_PATH = os.path.join(self.tmp.name, "history.json")
+
+    def tearDown(self):
+        self.build_report.FEED_PATH = self._old_feed
+        self.build_report.DIGEST_HISTORY_PATH = self._old_hist
+        self.tmp.cleanup()
+
+    def _read_feed(self):
+        with open(self.build_report.FEED_PATH, encoding="utf-8") as f:
+            return f.read()
+
+    def test_same_day_rerun_updates_feed(self):
+        self.build_report.write_feed("2026-09-22", "📡 雷达周报 2026-09-22", "空事件版本")
+        self.assertIn("空事件版本", self._read_feed())
+        self.build_report.write_feed("2026-09-22", "📡 雷达周报 2026-09-22", "395 条事件版本")
+        feed = self._read_feed()
+        self.assertIn("395 条事件版本", feed)
+        self.assertNotIn("空事件版本", feed)
+        with open(self.build_report.DIGEST_HISTORY_PATH, encoding="utf-8") as f:
+            history = json.load(f)
+        self.assertEqual(len(history), 1)
+        self.assertEqual(history[0]["markdown"], "395 条事件版本")
+
+    def test_new_day_appends_entry(self):
+        self.build_report.write_feed("2026-09-22", "📡 雷达周报 2026-09-22", "本周A")
+        self.build_report.write_feed("2026-09-28", "📡 雷达周报 2026-09-28", "下周B")
+        with open(self.build_report.DIGEST_HISTORY_PATH, encoding="utf-8") as f:
+            history = json.load(f)
+        self.assertEqual([h["date"] for h in history], ["2026-09-28", "2026-09-22"])
+        feed = self._read_feed()
+        self.assertIn("本周A", feed)
+        self.assertIn("下周B", feed)
 
 
 if __name__ == "__main__":

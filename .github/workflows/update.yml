@@ -9,6 +9,10 @@ on:
         description: "强制重新抓取新闻事件（忽略 120h 新鲜度检查）"
         type: boolean
         default: false
+      deploy_only:
+        description: "仅重新部署 site/ 目录（跳过抓取与重建）"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -30,9 +34,11 @@ jobs:
         run: python -m unittest discover -s tests -v
 
       - name: Fetch news events (tolerate failures)
+        if: ${{ !inputs.deploy_only }}
         run: python engine/fetch_news.py ${{ inputs.force && '--force' || '' }}
 
       - name: Rebuild data & report
+        if: ${{ !inputs.deploy_only }}
         run: python engine/build_report.py
 
       - name: Commit refreshed data
