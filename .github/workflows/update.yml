@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 1 * * 1"   # 每周一 UTC 01:00（北京时间 09:00）
   workflow_dispatch:
+    inputs:
+      force:
+        description: "强制重新抓取新闻事件（忽略 120h 新鲜度检查）"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -25,7 +30,7 @@ jobs:
         run: python -m unittest discover -s tests -v
 
       - name: Fetch news events (tolerate failures)
-        run: python engine/fetch_news.py
+        run: python engine/fetch_news.py ${{ inputs.force && '--force' || '' }}
 
       - name: Rebuild data & report
         run: python engine/build_report.py
