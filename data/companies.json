@@ -2,7 +2,7 @@
  {
   "name": "京东方",
   "aliases": "",
-  "ticker": "",
+  "ticker": "000725",
   "market": "A股",
   "industry": "综合",
   "segment": "液晶面板（合肥模式标的）",
@@ -14,7 +14,7 @@
  {
   "name": "宁德时代",
   "aliases": "",
-  "ticker": "",
+  "ticker": "300750",
   "market": "A股",
   "industry": "综合",
   "segment": "链主企业+CVC（产业孵化）",
@@ -26,7 +26,7 @@
  {
   "name": "比亚迪",
   "aliases": "",
-  "ticker": "",
+  "ticker": "002594",
   "market": "A股",
   "industry": "综合",
   "segment": "链主企业（产业孵化）",
@@ -38,7 +38,7 @@
  {
   "name": "立讯精密",
   "aliases": "",
-  "ticker": "",
+  "ticker": "002475",
   "market": "A股",
   "industry": "综合",
   "segment": "制造/代工",
@@ -50,7 +50,7 @@
  {
   "name": "美的",
   "aliases": "",
-  "ticker": "",
+  "ticker": "000333",
   "market": "A股",
   "industry": "综合",
   "segment": "并购整合案例买方",
@@ -62,7 +62,7 @@
  {
   "name": "中金公司",
   "aliases": "",
-  "ticker": "",
+  "ticker": "03908.HK",
   "market": "港股",
   "industry": "综合",
   "segment": "投行研究（数据来源）",
@@ -74,7 +74,7 @@
  {
   "name": "阿里巴巴（通义千问Qwen）",
   "aliases": "阿里巴巴 / 阿里巴巴（通义千问Qwen）",
-  "ticker": "",
+  "ticker": "09988.HK",
   "market": "港股",
   "industry": "综合",
   "segment": "基座模型（开源Qwen）/云",
@@ -86,7 +86,7 @@
  {
   "name": "CoreWeave",
   "aliases": "",
-  "ticker": "",
+  "ticker": "CRWV",
   "market": "美股",
   "industry": "综合",
   "segment": "算力租赁",
@@ -98,7 +98,7 @@
  {
   "name": "Snowflake",
   "aliases": "",
-  "ticker": "",
+  "ticker": "SNOW",
   "market": "美股",
   "industry": "综合",
   "segment": "跨境数据",
@@ -110,7 +110,7 @@
  {
   "name": "甲骨文",
   "aliases": "",
-  "ticker": "",
+  "ticker": "ORCL",
   "market": "美股",
   "industry": "综合",
   "segment": "云/数据库",
@@ -290,7 +290,7 @@
  {
   "name": "中微公司",
   "aliases": "",
-  "ticker": "",
+  "ticker": "688012",
   "market": "A股",
   "industry": "半导体",
   "segment": "设备（刻蚀）",
@@ -302,7 +302,7 @@
  {
   "name": "中际旭创",
   "aliases": "",
-  "ticker": "",
+  "ticker": "300308",
   "market": "A股",
   "industry": "半导体",
   "segment": "光模块/光互连",
@@ -314,7 +314,7 @@
  {
   "name": "北方华创",
   "aliases": "",
-  "ticker": "",
+  "ticker": "002371",
   "market": "A股",
   "industry": "半导体",
   "segment": "国产设备",
@@ -326,7 +326,7 @@
  {
   "name": "华天科技",
   "aliases": "",
-  "ticker": "",
+  "ticker": "002185",
   "market": "A股",
   "industry": "半导体",
   "segment": "封装测试",
@@ -338,7 +338,7 @@
  {
   "name": "寒武纪",
   "aliases": "",
-  "ticker": "",
+  "ticker": "688256",
   "market": "A股",
   "industry": "半导体",
   "segment": "国产推理芯片",
@@ -350,7 +350,7 @@
  {
   "name": "新易盛",
   "aliases": "",
-  "ticker": "",
+  "ticker": "300502",
   "market": "A股",
   "industry": "半导体",
   "segment": "光模块",
@@ -362,7 +362,7 @@
  {
   "name": "浪潮",
   "aliases": "",
-  "ticker": "",
+  "ticker": "000977",
   "market": "A股",
   "industry": "半导体",
   "segment": "服务器/AI基础设施（下游）",
@@ -374,7 +374,7 @@
  {
   "name": "海光信息",
   "aliases": "",
-  "ticker": "",
+  "ticker": "688041",
   "market": "A股",
   "industry": "半导体",
   "segment": "AI芯片/CPU",
@@ -386,7 +386,7 @@
  {
   "name": "通富微电",
   "aliases": "",
-  "ticker": "",
+  "ticker": "002156",
   "market": "A股",
   "industry": "半导体",
   "segment": "封装测试",
@@ -398,7 +398,7 @@
  {
   "name": "长电科技",
   "aliases": "",
-  "ticker": "",
+  "ticker": "600584",
   "market": "A股",
   "industry": "半导体",
   "segment": "封装测试（OSAT）",
@@ -410,7 +410,7 @@
  {
   "name": "龙芯中科",
   "aliases": "",
-  "ticker": "",
+  "ticker": "688047",
   "market": "A股",
   "industry": "半导体",
   "segment": "CPU",
@@ -422,7 +422,7 @@
  {
   "name": "中芯国际",
   "aliases": "",
-  "ticker": "",
+  "ticker": "00981.HK",
   "market": "港股",
   "industry": "半导体",
   "segment": "大陆先进/成熟制程",
@@ -434,7 +434,7 @@
  {
   "name": "华虹半导体",
   "aliases": "",
-  "ticker": "",
+  "ticker": "01347.HK",
   "market": "港股",
   "industry": "半导体",
   "segment": "制造/代工",
@@ -446,7 +446,7 @@
  {
   "name": "AMD",
   "aliases": "",
-  "ticker": "",
+  "ticker": "AMD",
   "market": "美股",
   "industry": "半导体",
   "segment": "AI芯片/GPU",
@@ -458,7 +458,7 @@
  {
   "name": "ASML",
   "aliases": "",
-  "ticker": "",
+  "ticker": "ASML",
   "market": "美股",
   "industry": "半导体",
   "segment": "光刻机（EUV）",
@@ -470,7 +470,7 @@
  {
   "name": "Astera Labs",
   "aliases": "",
-  "ticker": "",
+  "ticker": "ALAB",
   "market": "美股",
   "industry": "半导体",
   "segment": "互连芯片（Retimer）",
@@ -482,7 +482,7 @@
  {
   "name": "Cerebras",
   "aliases": "",
-  "ticker": "",
+  "ticker": "CBRS",
   "market": "美股",
   "industry": "半导体",
   "segment": "AI芯片（晶圆级）",
@@ -494,7 +494,7 @@
  {
   "name": "II-VI",
   "aliases": "",
-  "ticker": "",
+  "ticker": "COHR",
   "market": "美股",
   "industry": "半导体",
   "segment": "光芯片",
@@ -506,7 +506,7 @@
  {
   "name": "Lumentum",
   "aliases": "",
-  "ticker": "",
+  "ticker": "LITE",
   "market": "美股",
   "industry": "半导体",
   "segment": "光芯片",
@@ -518,7 +518,7 @@
  {
   "name": "博通（Broadcom）",
   "aliases": "",
-  "ticker": "",
+  "ticker": "AVGO",
   "market": "美股",
   "industry": "半导体",
   "segment": "AI芯片（ASIC定制）+交换芯片",
@@ -542,7 +542,7 @@
  {
   "name": "应用材料（Applied Materials）",
   "aliases": "",
-  "ticker": "",
+  "ticker": "AMAT",
   "market": "美股",
   "industry": "半导体",
   "segment": "设备",
@@ -554,7 +554,7 @@
  {
   "name": "美光（Micron）",
   "aliases": "",
-  "ticker": "",
+  "ticker": "MU",
   "market": "美股",
   "industry": "半导体",
   "segment": "存储/HBM",
@@ -566,7 +566,7 @@
  {
   "name": "美满（Marvell）",
   "aliases": "",
-  "ticker": "",
+  "ticker": "MRVL",
   "market": "美股",
   "industry": "半导体",
   "segment": "高速接口/互连芯片",
@@ -578,7 +578,7 @@
  {
   "name": "英伟达（NVIDIA）",
   "aliases": "英伟达 / 英伟达（NVIDIA）",
-  "ticker": "",
+  "ticker": "NVDA",
   "market": "美股",
   "industry": "半导体",
   "segment": "算力底座+具身大脑（GR00T）",
@@ -590,7 +590,7 @@
  {
   "name": "英特尔（Intel）",
   "aliases": "",
-  "ticker": "",
+  "ticker": "INTC",
   "market": "美股",
   "industry": "半导体",
   "segment": "先进制程（18A）",
@@ -602,7 +602,7 @@
  {
   "name": "高通",
   "aliases": "",
-  "ticker": "",
+  "ticker": "QCOM",
   "market": "美股",
   "industry": "半导体",
   "segment": "芯片设计（手机SoC）",
@@ -1070,7 +1070,7 @@
  {
   "name": "海天瑞声",
   "aliases": "",
-  "ticker": "",
+  "ticker": "688787",
   "market": "A股",
   "industry": "AI大模型",
   "segment": "数据标注/评测",
@@ -1082,7 +1082,7 @@
  {
   "name": "科大讯飞",
   "aliases": "",
-  "ticker": "",
+  "ticker": "002230",
   "market": "A股",
   "industry": "AI大模型",
   "segment": "AI语音/认知智能",
@@ -1094,7 +1094,7 @@
  {
   "name": "金山办公",
   "aliases": "",
-  "ticker": "",
+  "ticker": "688111",
   "market": "A股",
   "industry": "AI大模型",
   "segment": "AI应用（办公）",
@@ -1106,7 +1106,7 @@
  {
   "name": "MiniMax",
   "aliases": "",
-  "ticker": "",
+  "ticker": "00100.HK",
   "market": "港股",
   "industry": "AI大模型",
   "segment": "基座模型/视频生成",
@@ -1118,7 +1118,7 @@
  {
   "name": "中国移动",
   "aliases": "",
-  "ticker": "",
+  "ticker": "00941.HK",
   "market": "港股",
   "industry": "AI大模型",
   "segment": "国资/产业资本",
@@ -1130,7 +1130,7 @@
  {
   "name": "商汤科技",
   "aliases": "商汤 / 商汤科技",
-  "ticker": "",
+  "ticker": "00020.HK",
   "market": "港股",
   "industry": "AI大模型",
   "segment": "计算机视觉/AI",
@@ -1166,7 +1166,7 @@
  {
   "name": "美团",
   "aliases": "",
-  "ticker": "",
+  "ticker": "03690.HK",
   "market": "港股",
   "industry": "AI大模型",
   "segment": "应用/产业资本",
@@ -1178,7 +1178,7 @@
  {
   "name": "腾讯",
   "aliases": "",
-  "ticker": "",
+  "ticker": "00700.HK",
   "market": "港股",
   "industry": "AI大模型",
   "segment": "基座模型/应用",
@@ -1190,7 +1190,7 @@
  {
   "name": "Meta",
   "aliases": "",
-  "ticker": "",
+  "ticker": "META",
   "market": "美股",
   "industry": "AI大模型",
   "segment": "AI模型/社交媒体",
@@ -1202,7 +1202,7 @@
  {
   "name": "Palantir",
   "aliases": "",
-  "ticker": "",
+  "ticker": "PLTR",
   "market": "美股",
   "industry": "AI大模型",
   "segment": "数据智能",
@@ -1214,7 +1214,7 @@
  {
   "name": "亚马逊",
   "aliases": "亚马逊 / 亚马逊（Amazon）",
-  "ticker": "",
+  "ticker": "AMZN",
   "market": "美股",
   "industry": "AI大模型",
   "segment": "云（AWS）+资本开支",
@@ -1226,7 +1226,7 @@
  {
   "name": "微软",
   "aliases": "微软 / 微软Azure / 微软（Microsoft）",
-  "ticker": "",
+  "ticker": "MSFT",
   "market": "美股",
   "industry": "AI大模型",
   "segment": "电力消纳方（PPA）/战略投资",
@@ -1238,7 +1238,7 @@
  {
   "name": "拼多多",
   "aliases": "",
-  "ticker": "",
+  "ticker": "PDD",
   "market": "美股",
   "industry": "AI大模型",
   "segment": "应用",
@@ -1250,7 +1250,7 @@
  {
   "name": "百度",
   "aliases": "",
-  "ticker": "",
+  "ticker": "BIDU",
   "market": "美股",
   "industry": "AI大模型",
   "segment": "基座模型/自动驾驶",
@@ -1262,7 +1262,7 @@
  {
   "name": "苹果",
   "aliases": "苹果 / 苹果（Apple）",
-  "ticker": "",
+  "ticker": "AAPL",
   "market": "美股",
   "industry": "AI大模型",
   "segment": "消费电子巨头（BCI合作方）",
@@ -1754,7 +1754,7 @@
  {
   "name": "D-Wave",
   "aliases": "",
-  "ticker": "",
+  "ticker": "QBTS",
   "market": "美股",
   "industry": "量子计算",
   "segment": "整机(量子退火)",
@@ -1766,7 +1766,7 @@
  {
   "name": "FormFactor",
   "aliases": "",
-  "ticker": "",
+  "ticker": "FORM",
   "market": "美股",
   "industry": "量子计算",
   "segment": "设备(晶圆探针卡)",
@@ -1778,7 +1778,7 @@
  {
   "name": "IBM",
   "aliases": "",
-  "ticker": "",
+  "ticker": "IBM",
   "market": "美股",
   "industry": "量子计算",
   "segment": "整机(超导)/qLDPC纠错编码",
@@ -1802,7 +1802,7 @@
  {
   "name": "Onto Innovation",
   "aliases": "",
-  "ticker": "",
+  "ticker": "ONTO",
   "market": "美股",
   "industry": "量子计算",
   "segment": "设备/部件",
@@ -1838,7 +1838,7 @@
  {
   "name": "Rigetti",
   "aliases": "",
-  "ticker": "",
+  "ticker": "RGTI",
   "market": "美股",
   "industry": "量子计算",
   "segment": "整机(超导)",
@@ -1850,7 +1850,7 @@
  {
   "name": "霍尼韦尔（Honeywell）",
   "aliases": "",
-  "ticker": "",
+  "ticker": "HON",
   "market": "美股",
   "industry": "量子计算",
   "segment": "离子阱(Quantinuum母公司)",
@@ -3410,7 +3410,7 @@
  {
   "name": "汇川技术",
   "aliases": "",
-  "ticker": "",
+  "ticker": "300124",
   "market": "A股",
   "industry": "具身智能",
   "segment": "伺服系统",
@@ -3458,7 +3458,7 @@
  {
   "name": "鸣志电器",
   "aliases": "",
-  "ticker": "",
+  "ticker": "603728",
   "market": "A股",
   "industry": "具身智能",
   "segment": "微型电机",
@@ -3494,7 +3494,7 @@
  {
   "name": "极智嘉",
   "aliases": "",
-  "ticker": "",
+  "ticker": "02590.HK",
   "market": "港股",
   "industry": "具身智能",
   "segment": "应用集成/仓储物流",
