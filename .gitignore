@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 preview_*.png
 .DS_Store
+push.bat
