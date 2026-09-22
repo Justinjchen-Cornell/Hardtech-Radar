@@ -1,0 +1,101 @@
+{
+ "comment": "六大赛道关键里程碑与证伪点（兑现窗口跟踪）。日期为原文口径的预计时点，仅用于研究跟踪。",
+ "milestones": [
+  {
+   "date": "2026-12-31",
+   "sector": "可控核聚变",
+   "event": "CFS SPARC 装置建成（18块高温超导磁体安装完成）",
+   "why": "全球聚变工程化标杆的第一个兑现点，是A股超导供应链的'发令枪'",
+   "falsifier": "装置建成推迟至2027年中以后",
+   "status": "on_track",
+   "checked_at": "2026-09-22",
+   "note": ""
+  },
+  {
+   "date": "2027-06-30",
+   "sector": "可控核聚变",
+   "event": "SPARC 产生首个等离子体并验证 Q>1",
+   "why": "Q>1 工程验证将直接点燃聚变供应链估值（'谁是工程效率之王'）",
+   "falsifier": "首次等离子体推迟，或 Q 值显著不及预期",
+   "status": "on_track",
+   "checked_at": "2026-09-22",
+   "note": ""
+  },
+  {
+   "date": "2027-12-31",
+   "sector": "可控核聚变",
+   "event": "中国 BEST 紧凑型聚变装置基本建成",
+   "why": "中国与美国对表的关键节点；BEST 采购订单流向是A股磁体/超导链的先行指标",
+   "falsifier": "建设进度显著落后于 SPARC",
+   "status": "on_track",
+   "checked_at": "2026-09-22",
+   "note": ""
+  },
+  {
+   "date": "2027-12-31",
+   "sector": "具身智能",
+   "event": "人形机器人'大考期'：复购率与连续运行时长取代故事",
+   "why": "从IPO潮进入去伪存真期，'复购率取代故事'是估值逻辑切换点",
+   "falsifier": "头部整机厂出货增速持续低于营收增速（数据飞轮证伪）",
+   "status": "on_track",
+   "checked_at": "2026-09-22",
+   "note": ""
+  },
+  {
+   "date": "2028-06-30",
+   "sector": "可控核聚变",
+   "event": "Helion 按协议向微软交付 50MW（全球首份带罚则聚变PPA）",
+   "why": "聚变从科学工程走向商业交付的全球第一单",
+   "falsifier": "交付违约触发罚则，FRC路线商业信用受损",
+   "status": "on_track",
+   "checked_at": "2026-09-22",
+   "note": ""
+  },
+  {
+   "date": "2028-12-31",
+   "sector": "AI生命科学",
+   "event": "AI制药 III 期成功率检验（行业均值约10%）",
+   "why": "AI发现药物的III期成功率若未显著高于行业均值，'压缩的21世纪'叙事重置",
+   "falsifier": "英矽智能 Rentosertib III 期失败或数据平庸",
+   "status": "on_track",
+   "checked_at": "2026-09-22",
+   "note": ""
+  },
+  {
+   "date": "2029-12-31",
+   "sector": "量子计算",
+   "event": "IBM Starling：十万物理比特/千级逻辑比特",
+   "why": "容错量子计算的行业基准路线图；qLDPC 技术的规模化大考",
+   "falsifier": "跳票超过18个月（六项证伪清单之一）",
+   "status": "on_track",
+   "checked_at": "2026-09-22",
+   "note": ""
+  },
+  {
+   "date": "2030-12-31",
+   "sector": "可控核聚变",
+   "event": "CFS ARC（约400MW，弗吉尼亚）并网 / 中国 BEST 力争演示发电",
+   "why": "聚变商业化的'惊险一跃'：全球首座商业聚变电站",
+   "falsifier": "并网时间推迟至2035年以后",
+   "status": "on_track",
+   "checked_at": "2026-09-22",
+   "note": ""
+  },
+  {
+   "date": "2035-12-31",
+   "sector": "可控核聚变",
+   "event": "中国 CFEDR 氚自持验证（TBR>1）",
+   "why": "聚变能否成为真电站的终极物理门槛",
+   "falsifier": "氚增殖比无法超过 1",
+   "status": "on_track",
+   "checked_at": "2026-09-22",
+   "note": ""
+  }
+ ],
+ "status_values": {
+  "on_track": "跟踪中",
+  "slipped": "延期",
+  "hit": "兑现",
+  "missed": "落空"
+ }
+}

@@ -1,0 +1,80 @@
+name: weekly-refresh
+
+on:
+  schedule:
+    - cron: "0 1 * * 1"   # 每周一 UTC 01:00（北京时间 09:00）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  issues: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Fetch news events (tolerate failures)
+        run: python engine/fetch_news.py
+
+      - name: Rebuild data & report
+        run: python engine/build_report.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data.js site/feed.xml REPORT.md DIGEST.md data/events.json data/snapshots/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: weekly data refresh [skip ci]"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Create weekly digest issue (Watch 仓库即可收到通知)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="📡 雷达周报 $(date +%F)"
+          if [ ! -s DIGEST.md ]; then echo "no digest, skip"; exit 0; fi
+          COUNT=$(gh issue list --search "$TITLE in:title" --state open --json number --limit 1 | jq length)
+          if [ "$COUNT" = "0" ]; then
+            gh issue create --title "$TITLE" --body-file DIGEST.md
+          else
+            echo "issue already exists, skip"
+          fi
+
+      - name: Optional push to WeChat/DingTalk/Telegram (需配置 Secrets)
+        env:
+          SERVERCHAN_KEY: ${{ secrets.SERVERCHAN_KEY }}
+          WECOM_WEBHOOK: ${{ secrets.WECOM_WEBHOOK }}
+          DINGTALK_WEBHOOK: ${{ secrets.DINGTALK_WEBHOOK }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python engine/notify.py
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
