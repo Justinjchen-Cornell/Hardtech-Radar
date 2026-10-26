@@ -1,54 +1,55 @@
-# 📡 雷达周报 2026-10-19
+# 📡 雷达周报 2026-10-26
 
 **1. 西部超导**（688122）｜精选动态
-- 核心仓（ITER核心供应商，超导线材国内垄断，军工+核磁业绩托底的'免费期权'）本周新进展：西部超导材料科技股份有限公司2026年半年度权益分派实施公告|分红|股东|人民币|红利|个人所得税 - finance.sina.com.cn
-- 新闻：[西部超导材料科技股份有限公司2026年半年度权益分派实施公告|分红|股东|人民币|红利|个人所得税 - finance.sina.com.cn](https://news.google.com/rss/articles/CBMirAJBVV95cUxNZ1RqNFcxdTJLM0t1OVloWTJ6ajJJbTF6X19mWnk4ZkxPcWo1UTNOak9SRjVXejVJbWZfTU1YbnZqckpsMHJqaVJNXzNEaFEtSDdtOXJwZzFldkM5VnpIUUswdWVscm1VRFg3My1DZmZWOHdBZTJ2ODJ4aGxKWG00WWhQY3NocnQ4ZHJpemNlYkozQUR4NW9halR2cFhvNDVUR28xUkpNXzk1VHk3V1BjTDZ4ekZNRE1VbHNGWm01VFhUdk9VM1dVQ01uTUR4QmxhMGY0V3hDbVFDS0puWVJ4MXlVb3hyRDF4bFFfMWdMQlVlZEtnU3FhcXBCRlpsbV9Rb1dCd0Z6ZWRuM3VUdVo5NDBNTDVaS0pBdWs5Wml6ODlaemVrTUhqMGJqUm8?oc=5)
-- 新闻：[西部超导：2026年半年度权益分派实施公告 - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kX1ZGMHhVVUFaT3haTjhiYVZBclFqWFpGbVJWTnJvenhKRWZZU3E1d3VxdkptdzVKcVpRYTdIUXBGc29BeGxyc1BKWFAwanpDQVVBc1dEbDREdzJWdXg3SXBtdjZyQQ?oc=5)
-- 新闻：[西部超导参股公司合肥聚能开业 布局高性能超导材料产业化 - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WeVM2TUdueWpVR3ptV09ZVktnZ1I5dGJIUmlOWEFYUzhjQ0ZJaHFmTjNqemVtMldaRHozczFhbi1fcG1qZWF5U2pFUHlON2ktWG9VRTdXeDZ2dDd0bDdGVQ?oc=5)
+- 核心仓（ITER核心供应商，超导线材国内垄断，军工+核磁业绩托底的'免费期权'）本周新进展：西部超导：融资净偿还4264.49万元，融资余额17.57亿元 - 东方财富
+- 新闻：[西部超导：融资净偿还4264.49万元，融资余额17.57亿元 - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmcDVFXzNwQ2d6TlBuSnJaRFFlbWgtRVhlZ1hVYzZDRjljM2d2QURyZkh5RnFIeGpiTllfaHNOWF94RmtMcXV6T2l5RGkzRUVxLUluNUZ4dlhsUG5tbkN6Mg?oc=5)
+- 新闻：[西部超导（688122）10月22日主力资金净卖出2716.32万元 - 搜狐网](https://news.google.com/rss/articles/CBMiUkFVX3lxTE90REFUS3M0NW01U2oxWkcwM3VPTGFaeGVCeUFwc1lfYUR5RDVQeW9aMFlPS3hRR2VIQW5nUlVIR1Y1VTdjT1JoUnUtS3VjT0JrVGc?oc=5)
+- 新闻：[西部超导：2026年半年度权益分派实施公告 - Moomoo](https://news.google.com/rss/articles/CBMixAFBVV95cUxPanhQLVp4MG1CTWY4b0JoT1FNWTJialpBNHlmcktPeHhlQ1FtZ3NCYVl0Mm9LaU8wMGNaWXo4dWN5aUZBM3dWekp5MVgwSkZEV2NtY09rZUotRnFwSENxc1NQXzZlSy1YNllkeHhUbVZwcGNTd3BJV01KUHN1UGNPQ1hPTUllQ3NYbENIMzU0bk5EUm1qTU9aRUMwWEJ3RDM2N2hjTzJQaWQzeWMwYmd5OUFwcFQzZUsxVDZidm80dDhXOUlT?oc=5)
 **2. 博通（Broadcom）**（AVGO）｜精选动态
-- 核心仓（ASIC设计龙头+交换芯片霸主，推理时代巨头自研芯片的'卖水人'）本周新进展：OKXICE 美股代币化试水，为何被博通与 CoreWeave 们“集体拒签”？ - 深潮TechFlow
-- 新闻：[OKXICE 美股代币化试水，为何被博通与 CoreWeave 们“集体拒签”？ - 深潮TechFlow](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tYlVYYXB4WkFMOG5IY3VLVFJyaTdHRHdSeF9IRy1SaDM2SjhzaHNSeWhTZ2x0a1dPSGstR3FnSkhSS0g3VGRfcmt0NnhQOVJZSktsUg?oc=5)
-- 新闻：[博通、英特尔CEO警告资金成为AI扩张瓶颈，美股多只半导体股下跌 - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SYU5mbjNTR2otRnk0c0lDV2dDQldFQjRIWXlIU2NQYlpNS1dyZ2t4OTlfX1RHNGItSGg2VXJFM3VzTU9UVmZqVklNNjdIVXpYVlJB?oc=5)
-- 新闻：[博通跌至346美元：AI芯片收入暴涨221%，英伟达之外的另一家万亿巨头 - Moomoo](https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFk0ZS1XTDhKR3UwLVlrRUpISDBDQ3NLbDBhNFBRSlJ6czFrNUNlNDFzYnpwR1hVUlVvWjRnaHk0WXN2aVNCamRzZkVMY1VuRFNBUjdaUlpiNW9lc2NyVjRXUEpFWEpXRmtVa0FOd1h3eUJ2SFBfM2NOQXJoNGtfNHRFQUZXYjZFNmk2ZFVscnlKUVBvbzZCZlB5dldHZG82TnZtdXdRMkRCZ29FRl9yekVnV09uekU?oc=5)
-**3. 联创光电**（600363）｜精选动态
-- 核心仓（A股最纯正聚变磁体卖铲人，深度参与星火一号并获约50亿元磁体相关订单）本周新进展：江西联创光电科技股份有限公司关于控股股东所持公司部分股份非交易过户暨权益变动触及1%刻度的提示性公告 - finance.sina.com.cn
-- 新闻：[江西联创光电科技股份有限公司关于控股股东所持公司部分股份非交易过户暨权益变动触及1%刻度的提示性公告 - finance.sina.com.cn](https://news.google.com/rss/articles/CBMieEFVX3lxTE01TUdGWlVwYUZ0TExaUUhPMlp3NHZLeWJZYXBxOW5Udm5zYkpGUGUzcVIxY2FncmlTTnc1d2hBdTRlanNjcm9WU3ZaZl9Mcm1oZmUyU2l2TlFwRFlnSy10QzdsUzYxTXVtZ0xPeFJTQWltckxVaXlFdQ?oc=5)
-**4. 台积电（TSMC）**（TSM）｜精选动态
-- 核心仓（2nm一超：先进制程+CoWoS双垄断，全球代工'卖铲人'）本周新进展：台积电魏哲家风趣表态：Token消耗越多 需要的芯片越多 - 驱动之家
-- 新闻：[台积电魏哲家风趣表态：Token消耗越多 需要的芯片越多 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBpZ0lEZVNDcUJ1aEJ1cjRQc2pYTlBmWXpvamZVaDNBMWMwYllLUkJUUXpEc0tDcGwtR3hva1hOZXZsWTZNd1NQb0hWWUVYZzEtd3YwTHZaVnc?oc=5)
-- 新闻：[台积电日本JASM二厂获准转向3nm芯片生产 - 搜狐网](https://news.google.com/rss/articles/CBMijgFBVV95cUxQc19Sc0lwcHdSeGVQZzJJbzlCczl1QkFmQmdzNkVOdkJyUFJScEc0THhBZnRnaGtNQTBIaXU2UXVoWm93Z1hxNDVRSTRxSW90VC03d0IzME1TMnZFMzVnTko1M2JkZGVyOU1ndlEwWUpSWHdfVlJYb3RnUDI0VURjSU1vTXI1bWJNMWpHVWVB?oc=5)
-**5. 三花智控**（002050）｜精选动态
-- 核心仓（Optimus供应链关节Tier 1，'卖铲人结构'+主业现金流托底）本周新进展：三花智控(02050)_三花智控怎么样 - 热门讨论 - 雪球
-- 新闻：[三花智控(02050)_三花智控怎么样 - 热门讨论 - 雪球](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9nSVRFSTBYWkR1M2RvbGEyakxKWnBNbnN0aTNnbmlQRWdnYnh3a0JqVXQwUHA1aUwxWDV0NWk3Q2wtTDlDeVE?oc=5)
-- 新闻：[三花智控(02050.HK)截至10月15日回购A股股份581.34万股|股票回购|证券账户|格隆汇|格隆|成交价 - finance.sina.com.cn](https://news.google.com/rss/articles/CBMi7wNBVV95cUxPX2Y4TkJCUUxsMVgxQUlJWlY0dk5zaVNzemFtNzF2SXFBQ3pQSFdCNHNrdFBQUV9VN2pKdmQwdlRvenR1YVJocTQ4TDR2c2xPdTI3MXBleG1yMEp0U3Z4VWFHVF9janJqNVlaaHlwZkVXV1laWVJ5SVdDcWlGajdTV2lvYjk0TXBOLUpQc3h0VnlXTk1lYWttempvSWJKYWxVSHF6RW4xd29SX2xYS2UtdHhUQ0hDTlB0V21kLUpJU191TkxfODlUR2xIX0Zwd0N3VF9hVlQ1WnVJSUtMaTNpRWVGaWtmOVZ6dDVuQUQxaWJvS3BSdEgtak9YUnM0ZFRybE5vVy15WkdqNXl5cWVqX1NaelJ3WFJOZnZGOC1QMGtpc0RrSm5UX2hPb3NpbklSQ180d3BmUmZlVjl3cmJBTFBPYWdnVWpIQkZFUERpSGNTU2FLUWFoYXZiV3RzdFFpM2lQODg2b2RZZDhyN2drdGVjaWJUeklfMERURHlCZWtzZFlNTkFvQVl4YU42eHJfa2MzbE5RdjZMQm1oYTl3ZHBoRWxVVmxkaDFSZlNZdGM1YjRJN0c3UUZqNjFGcFdyTDZzdWhBTlcxMHZQVTU0UnhYY3FzaVYzLTBFSEhSZ243bENfTHZhelc4WjlmWjA?oc=5)
-- 新闻：[三花智控遭Schroders Limited减持116.51万股 每股作价约23.23港元 - 新浪财经](https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjR1WW5uUklaOEF6T0ZhbzJuWXBraENKdFhZVGVqZXRVckx4Tld6Z0tlWUFGa3NVdWp1S05qd3RaY0NiZ0p0OTN3VGZaWWU1US1FN2s5RG15ZE5fYnFySkQ0RnE2X0hYSmNqTmVicURPeWhFTTBZdXgtYm1DdVowMHFnR0VHc2sxcE52VXdR?oc=5)
-**6. 中微公司**（688012）｜精选动态
-- 核心仓（刻蚀设备国产替代双龙头之一，业绩扎实、订单饱满）本周新进展：中微公司董事长减持公告火了！“恢复为中国籍，为依法办理相关税务需要”|半导体相关基金|应用材料|股价|设备|等离子体 - finance.sina.com.cn
-- 新闻：[中微公司董事长减持公告火了！“恢复为中国籍，为依法办理相关税务需要”|半导体相关基金|应用材料|股价|设备|等离子体 - finance.sina.com.cn](https://news.google.com/rss/articles/CBMiowJBVV95cUxPaHFuSm9tWFFaWVU2S2t2cVhBVjUxaEJMNUdBLUNKWmEyZnAyRTRqay1aVV9MbXZGT2JsTEtsaWIySUhIVWtXYXVKd1FmeUV1cG5Rb2hHNElKeXoyMzZnQURHSHhFbks4MVBYczdraXJJV0JoWlZOVXlSU3lsV2VCWTVPRGVObHdwWVZ3TjBXYmQwV2pYSUd1bmJ3Z21HaUtnUjNQOGxlQ3JZUGRMNjR2aVVVYnlLOGs0eUZncGFHYlE1cW43dlZLTFNGZGhDRGtYdTF4QWlrbklHTExSV1p1Y1ZYM01ZNzZEaVhSWkZMdlk3OWJBbllaZGZ1c0U2SUFxZjFkWFd2amNsQUd0R3R3T0I2Z0c5ODZLaVB6cEM5UlI1VDQ?oc=5)
-- 新闻：[中微公司亮相2026湾芯展 平台化战略迈入规模化发展新阶段 - 经济参考报](https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmpDR1VzeHZfTE51STJjbHhzcWRsNVZmelBzSWNTWGhiQVRMSnFFNnFZNmdUZGZIR2E0dldYajJHczJSWWNtUmpZUWZVOFVaclBVelRLTTlHTFRNd3VaWmxJN2FWSi1qVGc0WkpOcmFXdEw0Y0F6bHJiT2hyWmhOTw?oc=5)
-- 新闻：[中微多款高端半导体设备齐发，五年目标覆盖60%+高端设备市场 - 21财经](https://news.google.com/rss/articles/CBMijwFBVV95cUxOanZCRkIyYXUtQ0xYRzZFcEVrYWpaTFBycm9GSi05SDNnVnFaeko4T1JuZ3Q1WVpYNlZnZkY0NDZucVFHVVEtd2NfM192Y1RoWXlFa1VLcVptQkstdS1PRWsyamM5VUY2S0YzN1VXN0FRMGFZODdUYkRvTWVaVGVKZ2dlZURJSEJsMXBHQXZMSQ?oc=5)
-**7. 中际旭创**（300308）｜精选动态
-- 核心仓（800G/1.6T光模块全球领先，绕行路径中最早'从概念到业绩'）本周新进展：2股融资买入额超10亿元，包括中际旭创、长鑫科技-电报君 - 金融界
-- 新闻：[2股融资买入额超10亿元，包括中际旭创、长鑫科技-电报君 - 金融界](https://news.google.com/rss/articles/CBMidEFVX3lxTFBMU1I0aTNUMl9WNjM5dUlFMGxqSzd5T2t0dTdvN2N6WmV0WjRPQS1JNldKbGZFN3ZLWExaRTFEbVB3U0V4QzRfVzI2NVBINWJGb2d4RW81MjNkVGdpVjUtdUR0d0x1ZVhfM1FhdHpqVUhCT3hD?oc=5)
-- 新闻：[10月16日193股获融资买入超亿元 中际旭创获买入13.82亿元居首 - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rdmhGbkFqczRoV0l0YUs4cGJxYW5sOW8zN2NLRk1RNjNQV254U2M4a25QdWNxbHIyaFR6SlZTVTNadnUzak5YTEVXb0NLTWpsY2liTldNQ0FoMGozUjJxbmJwU1czUQ?oc=5)
-- 新闻：[中际旭创盘中涨超5% 拟注销近50亿元回购股份 - 新浪财经](https://news.google.com/rss/articles/CBMilgFBVV95cUxPRENXcVJtV2NzRGNPMUJTNlFnSEwxaDc1TjBhaXpNM0Q1dGlRaFVGV3NLOHpxUkptaHFhSVdsYjVpRTF3cGFiSjRBdUFzRnZmV3NrM2hTS0x6LVNFWHk0Mmtfa0J6UGVTcmsza0x4SW9PeXhWQzdBZjFiM2dIdFdBR0xUMFpkd1F6dktIN2pIU2JaanJ6MXc?oc=5)
-**8. 北方华创**（002371）｜精选动态
-- 核心仓（最硬核设备卖铲人：只要晶圆厂扩产就有订单，并以产业资本卡位上游）本周新进展：北方华创拟超4亿元并购诺合键维|装备|设备|混合|微电子|上市公司 - finance.sina.com.cn
-- 新闻：[北方华创拟超4亿元并购诺合键维|装备|设备|混合|微电子|上市公司 - finance.sina.com.cn](https://news.google.com/rss/articles/CBMi7ARBVV95cUxOVVZVU3VHcDdDaG4xZjJWdXlFVWp0akgxWWVrQURQNVU2SFV0YjYzQ0RNdU44WV9kbksxWjFoRFVsTEVWdXMzRXc5RXJBQmd3eGVmV28zU19RSXp6UVgyR01SSzJadWV1NzlTeTBYTm5zMGhXSkhTYUx0YlpkdjRacTE0c2x2dElqRk1heThzS3lQYU9LOUNBelE0d1lJeWxtSjFUeEdiM0lqU0VwYVBHdUJGV19jaUpNb0F2elhWV2Q2ckRMWHBBQmVENlFDRmc3ZjlfVnRYdDl0S0RpQ3hWdkhYdG9waXM1aG96QlJ2bjBoWktEdDhsTkhNNmJoZ0ZGTk5qY0FqdHNaMEdGMmUzckRaRXlJUU5hdDZHYUxHMVAtQ0lIbkhxUXBtQnpTVkJ6alFoMURjd2FyZzk0SHFCU2JmaXM2cVA2andlUExoVnd4RnIyeXFIclpYcG1QeHNhVDRlMnJIeFdjTEFmUGVnZHl6bGRNV0NWNng0dGcwOGlDc3AwV1djX3pMOTBWaVdiQzdNMEs4emNwRmQ3UW1tU1gybGVBUzVOSXhzZHBYSW13YnhXeF9id1dSWGc0UXFoeDNpNU50QjhuQ0k2TkNPRGJiVTRIZHNucjlhMFJ0RmNSNVZ2V0FNZFhJUEl0MXUteUxSbnZaWGZLX0lWdWlfZEU0TVdudTZoaTlsNFR6cWVKdkhLaXk5clBqUzhuRlQwR3lGMS1PMjhsLWR0NzZrZE80TWFjaUpyNHhuSDFwVjdmYjhycE5xeXZISXJxRlpZb3JTWGxrSVpvdGgtYjI5LXk1ek95Ri1kSlFLWA?oc=5)
-- 新闻：[拓荆科技、北方华创，双双加码键合设备领域 - 21财经](https://news.google.com/rss/articles/CBMijwFBVV95cUxQM1dGcVRTWG1zZUxjMlg3blBTdjV0UzI1VWZneWVxOFlZOXBrcEt2OWc3ZGNEZ0Y4S2NQZVhiMVFqdVNMWEJYaUx3dVhpc1BBMDVZckN4bXhHRFY2U3lFd1AyLVFLVUI1X21rb0J5QTFiV2hUMWJiQUdOZVZpVXRZb0VEeFkwZXBjSlhvR1V2QQ?oc=5)
-- 新闻：[招商证券上调北方华创评级至强烈推荐 看好订单营收持续增长 - 观点网](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBemg3Rm1iSE10WklyXzNObU4tZGtJdV9lX2dYUE1HMV9oT19BM1hvZlczcDhrTkJqV2xfYUhNc1lpSmROSi02TXp1a0VfUQ?oc=5)
-**9. 晶泰控股（晶泰科技/XtalPi）**（2228.HK）｜精选动态
-- 核心仓（行业第一个盈利者：2025年营收8.03亿+201%、手握70多亿现金的'压舱石'）本周新进展：晶泰控股（02228.HK）新增一起对外投资，被投资公司为浙江引安医药科技有限公司_公司新闻 - 证券之星
-- 新闻：[晶泰控股（02228.HK）新增一起对外投资，被投资公司为浙江引安医药科技有限公司_公司新闻 - 证券之星](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oWnJnSkw2NF80OEp0QzBxbUlWNE5nNHBiTnU2RXQtUTdlY1l4SnRvbGJLYmV2Q3p6Y01xRVhkTGtKbV92VXExQ1NMY0RITTRzQklwVnpjVDhFSUV5dno2WElRNTA?oc=5)
-- 新闻：[晶泰控股获董事会主席温书豪增持99.3万股 每股作价约6.89港元 - 新浪财经](https://news.google.com/rss/articles/CBMinAFBVV95cUxPek5zWWFfd2NPanFmVFNRdmNoVUN6V1FITDR5TE9ieEQ5R3BOSXhlemFUeHhKaWpyd1JhUzVBbDVGTkxTOHBsclZCU3UzcnMtX3JWVXNVNEJiYkhVa0NTZlF1UG80bDI2ZWdnaUxNUlNJNzVvTmxnWlJVMGJtZ3BORXlvNjg3S2JEaE4zWkZ5dS03SS1JY0NXRE83WUs?oc=5)
-- 新闻：[晶泰控股五日跌逾两成，AI制药高位回调考验估值锚 - 21财经](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDF1ZzBObjNENC0zdVBlLUxUc0ZKalY1Rk9qVDVRQk1zeEZZcU1JeEtXX0pIREM1RmEwelBqNDBRdW1RcklzeVJjb2lacGYtOVhqcUFmRWlJSHExMmc2N0loU181LWRueXlsUG9IUWdOM2JxZjZqNk5PLWJ4UEhiQW1nQnZjTnZjWlFKME9GaGhRWi1x?oc=5)
-**10. 智谱AI**（02513.HK）｜精选动态
-- 核心仓（中国开源纯正旗手：北京国资背书，流通盘小波动大、'波动即机会'）本周新进展：“算力资源借我一用”…拖中国AI后腿的芯片 - 朝鮮日報中文版
-- 新闻：[“算力资源借我一用”…拖中国AI后腿的芯片 - 朝鮮日報中文版](https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzdjU2Z5b1pvZ01uLUpubU5DSjFPOFF6clZMUUVZdjRyRkY1SENqMG5MVF91dTctVGEzQzlkd21oZXoyV2daMGtRTDFLY3Q2Q2hTNl8wS2FJM1hRano2czJHRC01cmZHU21CM1F5QkdSbUFOTFpiZ2xMWEJkc0IweEhjYmd2bzd5SEJVX0Ntei1NNzU4OVRVSUFremRHSTNX?oc=5)
-- 新闻：[智谱AI开辟AutoClaw新入口，推出APP版本|龙虾|星球|服务|群聊|看板 - finance.sina.com.cn](https://news.google.com/rss/articles/CBMixwJBVV95cUxOSlR1R0Y4OFNpdzl6U1ZQYmdUeWZJdzJqeVNheUIydEhaLXVMR3QzUFBVZUxPWi1WMlZMS3loZE9PY3NPcjhmcHhMcm5JdGV6Z0FNOGI0OGg3WDNWVUk4UV9XbHRtZzN4VlRXVDdIcTY0LUl5dE5CNUxlV1dVdl9kVkFITEl3dXcyVkxWVXJ5MTZ6a3dyVUNHc2p6aFRvZGRxcmxSZ0V1RGJZSDZzVFZZMzZhSnk2dnRzQ0ZxRHo5WkQtZTBnd3JpNjV4Q3Y0YnVUVExncWl5MGNZaTRPOGdCRXMxSG1QeUxGMC1OMWpYeTdtN09hcXc3YTdkcVVuNVFQQzZfbHNkY09vU1dnUjdYWTRoRGRrbGtYTEFBSHBqTmdRMUwySXRUTm9hcENQb3A0Vlk1Q1dSQnZFR3E1THZYMmZKbzlaU0E?oc=5)
-- 新闻：[智谱AI发布法律垂直大模型GLM-Legal 基于GLM-5.3-Flash架构 - 观点网](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wM3MzRGJjY0pBMlh6RkNsU282QmRFa1o1d1ludWhzUGxfUVpsZl9VQnpRVnBvS3pFR2VteEVqQjhJMmUwMFB6TVRYVE81cTNoUVctZlJWZjVCVkpranUwVjlB?oc=5)
+- 核心仓（ASIC设计龙头+交换芯片霸主，推理时代巨头自研芯片的'卖水人'）本周新进展：博通 - 拿着别动 - Moomoo
+- 新闻：[博通 - 拿着别动 - Moomoo](https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3gtVXlEdDZCUk9zNTRXeWJKQzBGQmpIT2NESDhMLXRiMFA0ekw3TUtjNkwxYWF0MGJIaXltWFV3TFA3eHNBSS1lX0d0LWVzR05FZW0xVWFyd25ON2x3U1I0VjNmNDlwTEZ5U0RoTFVqX2N6M1BRLW5mVmpURmw5NA?oc=5)
+- 新闻：[光电通信｜博通双线布局 400G/lane：可插拔 DSP 与 CPO，奔向 204.8T 算力网络 - 电子工程专辑](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYMUxRUlAxbzh4cjZHc2oySWtiVlZZX3p2S1JnWkh5RGRQc29uZnNrNVAtVHJfbTJfeW1VZ2lyVVRnRW1HLXV4blptdGZvNkItdzZN?oc=5)
+- 新闻：[博通宣布与联邦快递达成持续基础设施协议 - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YclpPaTQxUU9OejE5NVZ3UVRFLVU0YlU3cm9pX3lhSjRPckVLNUxUNFphS29Pd0RmYkJjOVNMNmRKTlFMdmozdTdRZHdpLTNScXBnWFZvNE5tbm9qc3p5Xw?oc=5)
+**3. 台积电（TSMC）**（TSM）｜精选动态
+- 核心仓（2nm一超：先进制程+CoWoS双垄断，全球代工'卖铲人'）本周新进展：阿斯麦赢得台积电和三星承诺 新一代EUV光刻机获强力“护航” - 财联社
+- 新闻：[阿斯麦赢得台积电和三星承诺 新一代EUV光刻机获强力“护航” - 财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE91TmJySUFNcTRUaXVDWEY1SlZKRFhVVDBvS2c5a2dnMFZIdXlRTmlzalJMeHVaU2x6UWE2YTJiYl9PS3cyWDdaVw?oc=5)
+- 新闻：[Intel称半导体技术上已经赶超台积电：个别差距无需吹毛求疵 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lYW9jRmVLdXBaMUpKN0l2SjFjbmVMQW5ESWlWTlkxZXI2UTdjMVM5bHdYSDdMUFVtNUtSNHZ0MEx3Rmt0YUhFdnNaTDNBQXFpamlFNURzZTQ?oc=5)
+- 新闻：[台积电据报为工厂设备寻找替代 降低对中国大陆稀土依赖 - 联合早报](https://news.google.com/rss/articles/CBMiakFVX3lxTE1RRkFGOEk5QTJfdGt6TzdxVVFuc2lObi01eXJzX1BUWmpmV3cxcVZ3MGFBRkJfV3BmcE1vSmUxUXFfMlJDR2VwVDFuVzEzSGprUmQyWVZQblZ2WU52UU9ibFlCWEVHaVgtWlE?oc=5)
+**4. 国盾量子**（688027）｜精选动态
+- 核心仓（A股绝对稀缺：量子通信已商用+超导测控+稀释制冷机自研，背靠中科院体系）本周新进展：国盾量子拟销售6477.27万元量子计算机 - Sohu
+- 新闻：[国盾量子拟销售6477.27万元量子计算机 - Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaWVPbE9jUC1Tdm1LMWNHejI3dUZBUEtNa1ZSX0htb2cxbzNPS1VsSlFVZkhLMnlfQnNnRm14Nm4temRROHgwTnRYQmtMSFotbTBUWUNpMVRDWklvOFVJX2xMaFV2OXp6V1BCOGNZVlVYZE1NQmZqNld0bUh4WW9sZTFaZ1A5eXFfNkJZRQ?oc=5)
+- 新闻：[国盾量子扣非连亏3年3季 A股两募资共25亿国元证券保荐_手机中金在线 - 中金在线](https://news.google.com/rss/articles/CBMibkFVX3lxTE1fUkhKLXBndVVWTDFmRVN4MzdycElBMVJ4SGIyWFhPTVVaWXByT3h6cklFTWt6MnNpRi1obV85YW1PQ2RIR0ZYekJKTGJxR181R2I4SkFtUGNGa0xpRGY5TzJqdkR5Y3BINXhIaVVR?oc=5)
+- 新闻：[国盾量子前三季度研发投入占营收比例超52% - 东方财富网](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ocVVOUzNXRGZpTlJGMDBTcW9icHpMWUM0NzdaZmRpbjdXRnJScWtDaWp6N1A4NWZUbWpQWkJrenluVHRJNG15Y2V0MngzdFM4eTd6QnlQMVIxekg5Unc1WTZzQ1FzQQ?oc=5)
+**5. 中微公司**（688012）｜精选动态
+- 核心仓（刻蚀设备国产替代双龙头之一，业绩扎实、订单饱满）本周新进展：中微公司全球首台高选择性刻蚀设备顺利付运 - 东方财富
+- 新闻：[中微公司全球首台高选择性刻蚀设备顺利付运 - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rTTVMWXF1YUtTWjMxcTFWbnZiZTRlSld0eW1UNHo5Ri1QOUpRbldGaE96cUtIM1lSY3NXVGQ2LTF3aWlseVRDTUJIaXZNVzdWRmIxaXc2OGhBQkdiTEdPY1ZLYU5CQQ?oc=5)
+- 新闻：[中微公司，半导体设备重要突破 - 电子工程专辑](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IUWxpTUpEWjBPeGJfc3FPekgyWVhzNzlQZ1ZuY2tlYVhoRjhBU2o0ajVfMi11cDRiYTJwRXh1X1ZjM0hYbDVTbjUwbTc3MEI5NjZB?oc=5)
+- 新闻：[中微公司全球首台高选择性刻蚀设备顺利付运 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE9zNzdKRGFKM29xUktmX2RPSXlib1dGNURnTGZZWDhmRUF0Q0dORndnTkpxWlhrVG11ZUZqX1ZzZmc5TVJjRVRaTllNUXhGbXRWTExDTHdHdW9NTklSNVc1Z2YyVjUxYlZ0aF9FSUNZUUZaVkx1OVVtdg?oc=5)
+**6. 中际旭创**（300308）｜精选动态
+- 核心仓（800G/1.6T光模块全球领先，绕行路径中最早'从概念到业绩'）本周新进展：中际旭创（深交所：300308）是否值得加入你的观察名单？ - Moomoo
+- 新闻：[中际旭创（深交所：300308）是否值得加入你的观察名单？ - Moomoo](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZUVRSlNEQVhzRld4VnZHb0dWaGVrWGNCdjdYVGgtMUdrbzBJNGhZcjF5TEtWYVdoZnpNOE8ycW9xMHcyYnlkZEduQTcxRjlPdWdHYlFsaTV0WE95RENJNzctM0NFRlBCMzhhWkd1cldWeng1N3haYVpLTkZDTXpYQkl2S1BsWUlDWXZmUTd5WE9xNHZJVVRuZVAzdE8zMlE4dU00c2p2bHhFdw?oc=5)
+- 新闻：[中际旭创市值超贵州茅台，资金从消费流向AI - 第一财经](https://news.google.com/rss/articles/CBMiU0FVX3lxTFByT2lGUG5tckY1LXdzMm5HN0phVHg2OUZPTGlyVW0zRHRMX1pYMm05ZTItQUIzZkF4Vmh0NTRoNDJkN0pnVWx5eng4NTg3VExZZDI0?oc=5)
+- 新闻：[中际旭创、新易盛、天孚通信、光迅科技、源杰科技，联讯仪器集体公告 - 财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5La3oxNVRWaXh4MDJnU0hCNS1hZG5hZXdxUm5VSUwxRGhHd28zM0sxYjhBN1NfMFZWUDdfQkRiT2lxUFZPSkFIZg?oc=5)
+**7. 北方华创**（002371）｜精选动态
+- 核心仓（最硬核设备卖铲人：只要晶圆厂扩产就有订单，并以产业资本卡位上游）本周新进展：北方华创（002371）10月23日主力资金净卖出2.93亿元_主力研究 - 证券之星
+- 新闻：[北方华创（002371）10月23日主力资金净卖出2.93亿元_主力研究 - 证券之星](https://news.google.com/rss/articles/CBMiYEFVX3lxTE54VUdMc1UzS2ZoLUJ4SWJBSWtWclFvM0htVmdqWHNobzBSQ2Jva0k4SzJsRUR6aVkyWkFuOXgyZFdVcnpTX1NsVVgwU2VldUJsWWtzeDcxdWo0VElfWVk4Mw?oc=5)
+- 新闻：[北方华创：融资净买入1993.29万元，融资余额22.52亿元 - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NSTlMeEFLUlR4UVlpc2o4TTBKVlY3ZTFmR2xxdXlNMEYtcW1rZWdhVnpaWHFRVS1TTE9FeDQtNUNkUmJLclZkUUdmSUppb3M2RE90and0NWhJUUNlRTJ0a3Awenp4Zw?oc=5)
+**8. 三花智控**（002050）｜精选动态
+- 核心仓（Optimus供应链关节Tier 1，'卖铲人结构'+主业现金流托底）本周新进展：股市必读：三花智控新发布《第八届董事会第二十三次临时会议决议公告》 - 搜狐网
+- 新闻：[股市必读：三花智控新发布《第八届董事会第二十三次临时会议决议公告》 - 搜狐网](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVEwdHo2MFJSRHFxZ1hlRUU3Y2tGdEVnSWFMYW4tZDJ6dzZ5LXA2UnEwZjhqWVhTYTdxZFR6cFlZeV81bTZlMFhSelRrTUo2elN5RVF0Z280bWdlTDNfcFFmM29YemotZGRUMkk0dkpjcklzZkMxR0JUYlZUc3ZHdW1XdVJFZXc?oc=5)
+- 新闻：[三花智控(002050):第八届董事会第二十三次临时会议决议 - 中财网](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NMzJaYml5Y3FzdWNRZmtuWk9UODViRjhTSkZCa1pSR2gxVnVyRGtLdk1VTUdhbndkTFUwZXAxbm9xRkdobGZ1eDVIWkZHcTBPSXp2V3h3?oc=5)
+**9. 频准激光**（688626）｜精选动态
+- 观察哨（国内量子激光器市占率16.85%、毛利率67-70%的高毛利卖铲人）本周新进展：频准激光：10月23日融资买入4801.16万元，融资融券余额5.54亿元 - Sohu
+- 新闻：[频准激光：10月23日融资买入4801.16万元，融资融券余额5.54亿元 - Sohu](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZG1ZVlpNSm1uQlRBbVYxRUpLaHIwN1ZHcFNUMk4yRTJKQXZ5S2dkSk11bV9oeU9UZ1VBS080WlB6Qjhpa2RvNVhjVjhubVdzSzZxSFB6SnBDRWRER2ZHX1l1WmRyMHZsNk80WU9PSjd3VzlxRnFqMW9DSi03QjZGQi1LMGttdkJO?oc=5)
+- 新闻：[频准激光：融资净偿还1533.17万元，融资余额5.54亿元 - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VaU1XRGYwYnhkM2E2MjlZVjlYTGR5MDBqQVJvNF92UEtRdTBBYzRQZWV0WHdGV042Z2x0bVluTmxzMjBIcmhqZUUxWDlZY0U0NThtUE9QQ2x3LWJxeHZRVlZFYkVNQQ?oc=5)
+- 新闻：[国仪量子、频准激光股价显著下跌|量子科技|科创板|科技|市值|太一_手机新浪网 - finance.sina.com.cn](https://news.google.com/rss/articles/CBMikgJBVV95cUxPZHVKWkQ0dGN6X19OQk92d0JKdUZCeU1TTkFJYmc1Rl9Tc1IxNjk2Q0hIX1VGZFRra2JUbXZjVWptX1RPM0tuaGtQZXFDb2xzdHJWYzVuSnJubFJqMFFJVHpCY0JfU0haS3dtcFFJX05lQXpac1lrSENjWnpidXFyM3Rnb2plbDRNbDBOMUctV1dkMzFIR0JQSE90YXkzUU44LVQ2Ymk0NWFENFl5dFhZZUNsS0ZwUm80R0Npc0xaYmp4UF9uX1RXeFBBQzZnZTZDU1RFT2hKUFpsZ0h0cU1Wd2RDajdxZWF6RlhlUUhJSXNyVGVVRURPZFlqbVlYVXdaeGJIQnIxUEFsTnJIZmtPb2hR?oc=5)
+**10. 晶泰控股（晶泰科技/XtalPi）**（2228.HK）｜精选动态
+- 核心仓（行业第一个盈利者：2025年营收8.03亿+201%、手握70多亿现金的'压舱石'）本周新进展：$晶泰控股(02228)$ 晶泰科技入选港交所人工智能指数，权重位列前十 - 雪球
+- 新闻：[$晶泰控股(02228)$ 晶泰科技入选港交所人工智能指数，权重位列前十 - 雪球](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BVGMyTjl4Sm9LQ18zSVQ1MU9JRHJhYnozR1RYd0o2NXhzcFVXUGl3X3RZa0tJWlpwT0Z2TFZOeFVkdVNlV0V5dUxlRFJ3ZXRyZUVjb1Fn?oc=5)
+- 新闻：[晶泰控股（02228.HK）根据股份计划发行22.50万股新股_港闻资讯_港股 - 证券之星](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDSTZ1R1NkWV96N2RvREs0TmtoQnpJR2FuUjVqdVQzYjVBVXY3bkxCbzllMnBGOEhtMXA5RXBzVVZlWjZRV05QbmNiVXo3QmdrS1liR2hPRGVtZUVjT2FUUg?oc=5)
+- 新闻：[晶泰控股获QuantumPharm Holdings Limited增持100万股 每股作价5.9051港元 - 新浪财经](https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkN3dGNDemFZWW5nWmdxZ042ZWFhOGhaNkR2ck8tS2g5THlOLVVGZk9KakRiS0JlMU5sZkdpR2pVWXJxWjFMdllzNzQtakpjTWpQaG1UalZQN0NJTVdUTzBvS1ZydkhXa3p0NC03OTdQeml3dU13dlRMMTVTZUdMZ2liZ3c1ZGFtMHBWTGZB?oc=5)
 
-> 生成日期 2026-10-19。以上为研究观察信号，不构成投资建议。
+> 生成日期 2026-10-26。以上为研究观察信号，不构成投资建议。
 
 ---
 
